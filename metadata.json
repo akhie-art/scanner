@@ -1,0 +1,7 @@
+{
+  "name": "WebScanner AI",
+  "description": "A powerful document scanning web app powered by Gemini. Capture, enhance with filters (Magic Color, B&W), and extract text (OCR) instantly.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
